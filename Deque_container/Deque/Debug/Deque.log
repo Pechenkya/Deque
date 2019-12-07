@@ -1,0 +1,3 @@
+﻿  Deque_main.cpp
+d:\progs\visualstudioprojects\deque\deque\deque_container\deque\limvec.h(110): warning C4715: LimVec<int,10>::operator[]: значение возвращается не при всех путях выполнения
+  Deque.vcxproj -> D:\Progs\VisualStudioProjects\Deque\Deque\Deque_container\Debug\Deque.exe
